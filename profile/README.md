@@ -11,4 +11,5 @@ turning energy-hosted compute into a programmable cloud platform.
 
 ##
 
-[lektra.ai](https://lektra.ai)  |  [lektra.com](https://lektra.com) 
+[lektra.ai](https://lektra.ai)  - GPU Compute 
+[lektra.com](https://lektra.com) - Energy Providers
