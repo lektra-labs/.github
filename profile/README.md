@@ -9,4 +9,6 @@ turning energy-hosted compute into a programmable cloud platform.
 
 `ssh join.lektra.ai`
 
-https://lektra.ai
+
+
+[lektra.ai](https://lektra.ai)  |  [lektra.com](https://lektra.com) 
